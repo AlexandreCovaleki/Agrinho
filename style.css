@@ -1,0 +1,32 @@
+@charset "UTF-8";
+
+
+body{
+    background-color: rgb(92, 172, 92);
+    text-align: center;
+}
+
+p{
+    font-size: 18px;
+    font-family:sans-serif;
+}
+#principal{
+    font-size: 30px;
+    font-family: sans-serif;
+}
+#motivo{
+    font-size: 30px;
+    font-family: sans-serif;
+}
+li{
+    font-size: 22px;
+    font-family: sans-serif;
+}
+.um{
+    font-size: 18px;
+    color: blue;
+}
+.dois{
+    font-size: 18px;
+    color: red;
+}
